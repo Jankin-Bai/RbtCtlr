@@ -401,3 +401,9 @@ bin/
 
 # 忽略Windows系统自动生成的文件
 Thumbs.db
+# 忽略Unity的ProjectSettings文件
+ProjectSettings/
+*.csv
+# 忽略Visual Studio Code的设置文件
+.vscode/
+.vsconfig
