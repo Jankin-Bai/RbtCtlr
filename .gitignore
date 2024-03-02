@@ -410,3 +410,4 @@ ProjectSettings/
 .vscode/
 .vsconfig
 *.editorconfig
+/app.config
