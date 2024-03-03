@@ -219,7 +219,7 @@ namespace TouchRobot.Logic
                     thread_read = new Thread(PortRead);
                     thread_write = new Thread(PortWrite);
                     //Force
-                    thread_read = new Thread(PortFRead);
+                    //thread_read = new Thread(PortFRead);
                 }
                 else
                 {
