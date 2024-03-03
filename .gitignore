@@ -411,3 +411,4 @@ ProjectSettings/
 .vsconfig
 *.editorconfig
 /app.config
+.idea/
